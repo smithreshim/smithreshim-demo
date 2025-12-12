@@ -1,4 +1,4 @@
 # smithreshim-demo
 This is my first git repository.
 <br>
-Author - Smith Reshim
+Author - Smith Reshim ()
